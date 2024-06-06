@@ -16,8 +16,8 @@ conda env list
 
 '''
 3.Activate the virtual environment
-'
-''bash
+
+'''bash
 conda activate assistant
 
 '''
@@ -29,3 +29,15 @@ pip install SpeechRecognition
 pip install -r requirements.txt
 
 '''
+
+
+## Required github commands
+
+'''bash
+ git add .
+
+ git commit -m "message"
+
+  git push origin main
+
+  '''
