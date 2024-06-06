@@ -18,7 +18,7 @@ conda env list
 3.Activate the virtual environment
 
 '''bash
-conda activate assistant
+conda activate assistant1
 
 '''
 
