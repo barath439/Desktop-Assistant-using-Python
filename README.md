@@ -16,12 +16,14 @@ conda env list
 
 '''
 3.Activate the virtual environment
-'''bash
+'
+''bash
 conda activate assistant
 
 '''
 
 4.install all the  required packages
+
 '''bash
 pip install SpeechRecognition
 pip install -r requirements.txt
