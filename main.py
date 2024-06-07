@@ -18,8 +18,24 @@ engine.setProperty('rate', 150)
 # Speak function
 
 def speak(text):
+    """this function takes text and return voices
+    
+    
+    Args:
+         text(_type_): string
+         """
     engine.say(text)
     engine.runAndWait()
     
 # We will miss you from next week yathee maam
 speak("i am Barath, working as statistical programmer")
+
+
+
+# Speech recognition function
+
+def takeCommand():
+    """this function will recognize voice and returns text
+    """
+    r =
+    
