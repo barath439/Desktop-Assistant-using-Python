@@ -3,3 +3,11 @@ pyttsx3
 PyAudio
 wikipedia
 webbrowser
+streamlit
+pipwin
+gTTS
+google-generativeai
+
+import google.generativeai
+
+pip install gTTS
